@@ -1,4 +1,4 @@
-# SecureFileStorage
+# Encrypted Dropbox
 Implementation of an authenticated secure file storage system with the ability to add and revoke permissions.
 
 Storing files on a server and sharing them with friends and collaborators is very useful. Commercial services like Dropbox or Google Drive are popular examples of a file store service (with convenient filesystem interfaces). But what if you couldn’t trust the server you wanted to store your files on? What if you wanted to securely share and collaborate on files, even if the owner of the server is malicious? Especially since both Dropbox and Google Drive don’t actually encrypt the user data.
@@ -83,4 +83,4 @@ Please view the pdf in this repository for the project's design document.
 
 ## Acknowledgements
 1. Dr. Nicholas Weaver (http://www1.icsi.berkeley.edu/~nweaver/)
-2. Mohammed Shaikh ()
+2. Mohammed Shaikh (https://github.com/afmdnf)
